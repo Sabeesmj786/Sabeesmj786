@@ -23,6 +23,9 @@ public class Execution {
 		
 		ArrayList<Object> obj = new ArrayList<Object>();
 		obj.add( "("id": "1001","type": "Regular")");
+		
+		System.out.println("iyappan");
+		System.out.println(project1);
 	
 	}
 
